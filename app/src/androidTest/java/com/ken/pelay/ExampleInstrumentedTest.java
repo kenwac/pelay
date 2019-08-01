@@ -1,4 +1,4 @@
-package com.example.pelay;
+package com.ken.pelay;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

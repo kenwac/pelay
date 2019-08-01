@@ -1,4 +1,4 @@
-package com.example.pelay;
+package com.ken.pelay;
 
 import org.junit.Test;
 

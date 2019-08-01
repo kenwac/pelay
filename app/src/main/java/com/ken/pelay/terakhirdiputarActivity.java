@@ -1,4 +1,4 @@
-package com.example.pelay;
+package com.ken.pelay;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

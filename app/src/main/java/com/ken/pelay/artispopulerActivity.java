@@ -1,13 +1,13 @@
-package com.example.pelay;
+package com.ken.pelay;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class PalingActivity extends AppCompatActivity {
+public class artispopulerActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_paling);
+        setContentView(R.layout.activity_artispopuler);
     }
 }
